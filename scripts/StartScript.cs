@@ -13,5 +13,5 @@ public class StartScript : MonoBehaviour {
 		if (Input.GetMouseButtonDown (0)){
 			Application.LoadLevel("Level1");
 		}
-	}
+	} 
 }
